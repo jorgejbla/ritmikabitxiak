@@ -4,7 +4,7 @@ title: Temporada 2021/2022
 date: 2021-06-28T13:48:17.175Z
 description: Ya está abierta la matrícula para el curso 2021/2022
 featuredpost: true
-featuredimage: /img/chemex.jpg
+featuredimage: /img/inscripcion_2021_2022_cas.png
 tags:
   - temporada
   - nueva
