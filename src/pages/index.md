@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Tu club de Gimnasia Rítmica en Mungia
-image: /img/home-jumbotron.jpg
+image: /img/1.webp
 heading: Tu club de Gimnasia Rítmica en Mungia
 subheading: ¡Diviértete practicando la gimnasia rítmica con nosotros!
 mainpitch:
